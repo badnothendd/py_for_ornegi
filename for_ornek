@@ -1,3 +1,4 @@
+kisiler = ["ahmet","ali","ayse","eco","esra"]
 kisi_sayisi = 0
 for kisi in kisiler:
     kisi_sayisi=kisi_sayisi+1
