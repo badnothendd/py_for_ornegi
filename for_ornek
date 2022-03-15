@@ -1,0 +1,14 @@
+kisi_sayisi = 0
+for kisi in kisiler:
+    kisi_sayisi=kisi_sayisi+1
+    print(kisi_sayisi,")",kisi)
+    
+    
+   /*
+ 1 ) ahmet
+ 2 ) ali
+ 3 ) ayse
+ 4 ) eco
+ 5 ) esra
+ */
+   
